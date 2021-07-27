@@ -1,1 +1,5 @@
 app-admin/awscli ~amd64
+<<<<<<< HEAD
+=======
+dev-python/botocore ~amd64
+>>>>>>> 9322ce065ffa05034d162651f64e73b7fccdadbb
