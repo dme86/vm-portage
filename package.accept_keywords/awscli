@@ -1,0 +1,2 @@
+app-admin/awscli ~amd64
+dev-python/botocore ~amd64
